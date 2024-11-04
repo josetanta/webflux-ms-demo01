@@ -1,0 +1,4 @@
+
+Spring Application - Client Consuming
+
+${spring.application.name} ${spring-boot.version}

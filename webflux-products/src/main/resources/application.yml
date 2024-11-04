@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: webflux-02
+
+  data:
+    mongodb:
+      database: web_store
+      host: localhost
+      port: 27017
+
+server:
+  port: 8081
+
+logging:
+  level:
+    org:
+      mongodb:
+        driver: DEBUG
