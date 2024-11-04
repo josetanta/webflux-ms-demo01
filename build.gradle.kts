@@ -11,3 +11,9 @@ plugins {
 
 group = "org.systemia"
 version = "1.0.0"
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+    }
+}
