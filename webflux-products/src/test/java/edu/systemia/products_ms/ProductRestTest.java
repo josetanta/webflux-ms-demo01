@@ -1,8 +1,8 @@
-package edu.systemia.webflux_02;
+package edu.systemia.products_ms;
 
-import edu.systemia.webflux_02.dto.ProductDTO;
-import edu.systemia.webflux_02.rest.ProductRest;
-import edu.systemia.webflux_02.services.ProductService;
+import edu.systemia.products_ms.dto.ProductDTO;
+import edu.systemia.products_ms.rest.ProductRest;
+import edu.systemia.products_ms.services.ProductService;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;

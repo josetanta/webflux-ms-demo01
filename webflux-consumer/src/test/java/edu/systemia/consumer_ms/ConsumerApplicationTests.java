@@ -1,4 +1,4 @@
-package edu.systemia.webflux_consuming;
+package edu.systemia.consumer_ms;
 
 class ConsumerApplicationTests {
 

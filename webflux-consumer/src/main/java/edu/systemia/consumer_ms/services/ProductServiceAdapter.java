@@ -1,4 +1,4 @@
-package edu.systemia.webflux_consuming.services;
+package edu.systemia.consumer_ms.services;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.MediaType;

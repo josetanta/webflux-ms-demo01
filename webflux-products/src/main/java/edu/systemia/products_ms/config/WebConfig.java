@@ -1,4 +1,4 @@
-package edu.systemia.webflux_02.config;
+package edu.systemia.products_ms.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.annotation.Order;

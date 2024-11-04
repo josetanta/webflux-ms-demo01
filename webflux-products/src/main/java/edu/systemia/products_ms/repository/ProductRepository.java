@@ -1,7 +1,7 @@
-package edu.systemia.webflux_02.repository;
+package edu.systemia.products_ms.repository;
 
-import edu.systemia.webflux_02.dto.ProductDTO;
-import edu.systemia.webflux_02.entities.Product;
+import edu.systemia.products_ms.dto.ProductDTO;
+import edu.systemia.products_ms.entities.Product;
 import org.springframework.data.domain.Range;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 import reactor.core.publisher.Flux;

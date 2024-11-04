@@ -1,6 +1,6 @@
-package edu.systemia.webflux_consuming.rest;
+package edu.systemia.consumer_ms.rest;
 
-import edu.systemia.webflux_consuming.services.ProductServiceAdapter;
+import edu.systemia.consumer_ms.services.ProductServiceAdapter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;

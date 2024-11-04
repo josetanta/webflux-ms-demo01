@@ -1,7 +1,7 @@
-package edu.systemia.webflux_02.utils;
+package edu.systemia.products_ms.utils;
 
-import edu.systemia.webflux_02.dto.ProductDTO;
-import edu.systemia.webflux_02.entities.Product;
+import edu.systemia.products_ms.dto.ProductDTO;
+import edu.systemia.products_ms.entities.Product;
 import lombok.experimental.UtilityClass;
 import org.springframework.beans.BeanUtils;
 

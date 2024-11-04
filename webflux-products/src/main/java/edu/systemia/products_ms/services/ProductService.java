@@ -1,8 +1,8 @@
-package edu.systemia.webflux_02.services;
+package edu.systemia.products_ms.services;
 
-import edu.systemia.webflux_02.dto.ProductDTO;
-import edu.systemia.webflux_02.repository.ProductRepository;
-import edu.systemia.webflux_02.utils.AppUtils;
+import edu.systemia.products_ms.dto.ProductDTO;
+import edu.systemia.products_ms.repository.ProductRepository;
+import edu.systemia.products_ms.utils.AppUtils;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.domain.Range;

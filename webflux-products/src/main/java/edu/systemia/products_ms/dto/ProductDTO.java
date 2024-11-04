@@ -1,4 +1,4 @@
-package edu.systemia.webflux_02.dto;
+package edu.systemia.products_ms.dto;
 
 import jakarta.validation.constraints.*;
 import lombok.AllArgsConstructor;

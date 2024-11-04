@@ -1,7 +1,7 @@
-package edu.systemia.webflux_02.rest;
+package edu.systemia.products_ms.rest;
 
-import edu.systemia.webflux_02.dto.ProductDTO;
-import edu.systemia.webflux_02.services.ProductService;
+import edu.systemia.products_ms.dto.ProductDTO;
+import edu.systemia.products_ms.services.ProductService;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.Size;

@@ -1,4 +1,4 @@
-package edu.systemia.webflux_consuming.config;
+package edu.systemia.consumer_ms.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

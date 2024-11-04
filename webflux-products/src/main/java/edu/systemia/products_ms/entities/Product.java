@@ -1,4 +1,4 @@
-package edu.systemia.webflux_02.entities;
+package edu.systemia.products_ms.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
