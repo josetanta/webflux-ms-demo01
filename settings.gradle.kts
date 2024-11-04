@@ -7,4 +7,4 @@
  */
 
 rootProject.name = "webflux-ms"
-include("webflux-products", "webflux-consuming")
+include("webflux-products", "webflux-consumer")

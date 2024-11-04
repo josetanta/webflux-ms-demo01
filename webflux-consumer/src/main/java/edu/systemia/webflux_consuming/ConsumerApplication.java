@@ -1,13 +1,12 @@
-package edu.systemia.webflux_02;
+package edu.systemia.webflux_consuming;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Webflux02Application {
+public class ConsumerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Webflux02Application.class, args);
+		SpringApplication.run(ConsumerApplication.class, args);
 	}
-
 }

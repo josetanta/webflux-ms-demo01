@@ -1,4 +1,4 @@
-package edu.systemia.webflux_02;
+package edu.systemia.webflux_02.rest;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.validation.FieldError;
